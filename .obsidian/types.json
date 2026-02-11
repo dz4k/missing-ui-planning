@@ -1,0 +1,22 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Dependencies": "multitext",
+    "Time estimate (days)": "number",
+    "Confirmed": "checkbox",
+    "Copy-paste based": "checkbox",
+    "Framework-free": "checkbox",
+    "Styleable": "text",
+    "Classless": "checkbox",
+    "Component count": "checkbox",
+    "Component count (approx.)": "number",
+    "Accessibility": "checkbox",
+    "FOSS": "checkbox",
+    "Framework independent": "checkbox",
+    "Headless": "checkbox",
+    "Has styles": "checkbox",
+    "Buildless": "checkbox"
+  }
+}

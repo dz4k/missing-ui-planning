@@ -1,0 +1,55 @@
+filters:
+  and:
+    - file.inFolder("Comparisons")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Accessibility
+      - Buildless
+      - Classless
+      - Component count (approx.)
+      - Framework independent
+      - Framework-free
+      - Has styles
+      - Headless
+      - Styleable
+      - Stack
+      - Website
+      - FOSS
+      - License
+      - Notes
+    sort: []
+    columnSize:
+      note.Component count (approx.): 68
+      note.Framework independent: 143
+      note.License: 164
+  - type: table
+    name: Filtered
+    filters:
+      and:
+        - note["Framework independent"] == true
+        - FOSS == true
+        - Headless == true
+    order:
+      - file.name
+      - Accessibility
+      - Buildless
+      - Classless
+      - Component count (approx.)
+      - Framework independent
+      - Framework-free
+      - Has styles
+      - Headless
+      - Styleable
+      - Stack
+      - Website
+      - FOSS
+      - License
+      - Notes
+    sort: []
+    columnSize:
+      note.Component count (approx.): 68
+      note.Framework independent: 143
+      note.License: 164

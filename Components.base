@@ -1,0 +1,79 @@
+filters:
+  and:
+    - file.folder == "Components"
+views:
+  - type: table
+    name: Overview
+    filters:
+      and:
+        - Confirmed == true
+    order:
+      - Confirmed
+      - Implemented
+      - file.name
+      - type
+      - core
+      - Time estimate (days)
+      - file.tags
+      - Dependencies
+    summaries:
+      Time estimate (days): Sum
+    columnSize:
+      note.Confirmed: 77
+      note.Implemented: 59
+      file.name: 178
+      note.Time estimate (days): 70
+  - type: table
+    name: Detailed
+    order:
+      - Confirmed
+      - Implemented
+      - file.name
+      - type
+      - core
+      - Form-associated
+      - ARIA
+      - Time estimate (days)
+      - file.tags
+      - Dependencies
+    sort:
+      - property: file.name
+        direction: ASC
+    summaries:
+      Time estimate (days): Sum
+      Confirmed: Checked
+      Implemented: Checked
+    columnSize:
+      note.Confirmed: 77
+      note.Implemented: 69
+      file.name: 182
+      note.Form-associated: 54
+      note.ARIA: 65
+      note.Time estimate (days): 70
+      file.tags: 118
+  - type: table
+    name: "Overview: V2.0"
+    filters:
+      and:
+        - Confirmed == true
+        - file.tags.contains("v2-0")
+    order:
+      - Confirmed
+      - Implemented
+      - file.name
+      - type
+      - core
+      - Time estimate (days)
+      - file.tags
+      - Dependencies
+    summaries:
+      Time estimate (days): Sum
+      Confirmed: Filled
+      Implemented: Checked
+    columnSize:
+      note.Confirmed: 77
+      note.Implemented: 59
+      file.name: 178
+      note.Time estimate (days): 70
+  - type: cards
+    name: View
