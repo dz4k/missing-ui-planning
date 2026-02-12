@@ -41,10 +41,9 @@ Costs:
 - Polypane subscription: 72 EUR (12 * 6 months)
 Total: 9582 EUR
 
-Our time estimates are optimistic, so the project may extend beyond 5 business months, but is unlikely to stretch beyond a year. 
+Our time estimates are optimistic, so the project may extend beyond the planned 6 business months, but is unlikely to stretch close to a year. 
 
 **Compare your own project with existing or historical efforts.**
-[TODO HELP FIXME NEEDS WORK THIS IS SO IMPORTANT]
 Missing UI will distinguish itself by combining all of the below features:
 - Framework-independent vs. Radix UI, shadcn, Headless UI, React Aria...
 - Framework-free vs. Franken UI, Vaadin...
@@ -55,6 +54,13 @@ Missing UI will distinguish itself by combining all of the below features:
 - Not requiring frontend tooling (including bundlers, npm, and special CLIs) vs. Agnostic UI
 - Exposing its own composable building blocks, like the FocusGroup mixin
 - Meant for real-world usage vs. WAI-ARIA APG example implementations
+
+We have attached a detailed feature matrix comparing various existing component libraries. The majority are:
+- Specific to a framework like React or Vue,
+- A company's branded design system that just happens to be open-sourced,
+- Prevent direct styling (e.g. by using Shadow DOM heavily), and expose limited customization hooks
+
+u-elements is the closest 
 
 It is my feeling that most existing UI frameworks presume _developers_ as the target audience, and optimize for solving the web author's problems -- only focusing on the end user insofar as the developer does. This is not the approach we will take. In accordance with the W3C Priority of Constituencies, we plan to optimize for the _web user_, looking to improve the usability and accessibility of web applications as a whole. To the extent that we cater to developers, it will be to drive adoption (expanding impact area), and relieve "footguns" that lead to both broken websites and developer misery.
 
