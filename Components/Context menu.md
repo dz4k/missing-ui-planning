@@ -5,6 +5,8 @@ ARIA:
 core: false
 Form-associated: false
 Time estimate (days): 1
-Dependencies: "[[Menu]]"
+Dependencies:
+  - "[[Menu]]"
+  - "[[Focus Group]]"
 ---
 A wrapper (?) that opens a menu when its child element is right-clicked.
