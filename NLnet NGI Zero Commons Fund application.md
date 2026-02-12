@@ -60,7 +60,7 @@ We have attached a detailed feature matrix comparing various existing component 
 - A company's branded design system that just happens to be open-sourced,
 - Prevent direct styling (e.g. by using Shadow DOM heavily), and expose limited customization hooks
 
-u-elements is the closest 
+u-elements is the closest project to our vision. However, [TODO]
 
 It is my feeling that most existing UI frameworks presume _developers_ as the target audience, and optimize for solving the web author's problems -- only focusing on the end user insofar as the developer does. This is not the approach we will take. In accordance with the W3C Priority of Constituencies, we plan to optimize for the _web user_, looking to improve the usability and accessibility of web applications as a whole. To the extent that we cater to developers, it will be to drive adoption (expanding impact area), and relieve "footguns" that lead to both broken websites and developer misery.
 
