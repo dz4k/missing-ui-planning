@@ -41,10 +41,10 @@ Costs:
 [TODO HELP FIXME NEEDS WORK THIS IS SO IMPORTANT]
 Missing UI will distinguish itself by combining all of the below features:
 - Framework-independent vs. Radix UI, shadcn, Headless UI, React Aria...
-- Framework-free vs.
-- Headless vs. Web Awesome,
-- Freely styleable via plain CSS (as opposed to configuration-driven styling) vs. Web Awesome,
-- With optional pre-made styles, vs.
+- Framework-free vs. Franken UI, Vaadin...
+- Headless vs. Web Awesome, Crayons, Vaadin, Spectrum WC...
+- Freely styleable via plain CSS (as opposed to configuration-driven styling) vs. Fluent UI, Chakra UI
+- With optional pre-made styles, vs. u-elements, 
 - With classless styling, vs. 
 - Not requiring user tooling (including npm) vs.
 - Comprehensive vs. u-elements

@@ -4,6 +4,9 @@ filters:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - note["Has styles"] == false
     order:
       - file.name
       - Accessibility
@@ -21,8 +24,20 @@ views:
       - License
       - Notes
     sort:
+      - property: Headless
+        direction: DESC
+      - property: Framework independent
+        direction: DESC
       - property: Framework-free
-        direction: ASC
+        direction: DESC
+      - property: Has styles
+        direction: DESC
+      - property: Styleable
+        direction: DESC
+      - property: Buildless
+        direction: DESC
+      - property: Has styles
+        direction: DESC
     columnSize:
       note.Component count (approx.): 68
       note.Framework independent: 143
