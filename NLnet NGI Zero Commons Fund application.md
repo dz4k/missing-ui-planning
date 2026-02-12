@@ -38,7 +38,7 @@ Costs:
 - Apple Mac Mini (for testing on Safari): ~550 EUR
 - Polypane subscription:
 
-Labor estimates are optimistic, so the project may extend beyond 5 business months, but is unlikely to stretch beyond a year. 
+The time estimates budgeted for are optimistic, so the project may extend beyond 5 business months, but is unlikely to stretch beyond a year. 
 
 **Compare your own project with existing or historical efforts.**
 [TODO HELP FIXME NEEDS WORK THIS IS SO IMPORTANT]
