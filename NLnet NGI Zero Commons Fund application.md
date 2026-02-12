@@ -40,8 +40,8 @@ Costs:
 **Compare your own project with existing or historical efforts.**
 [TODO HELP FIXME NEEDS WORK THIS IS SO IMPORTANT]
 Missing UI will distinguish itself by combining all of the below features:
-- Framework-independent vs. Radix UI, shadcn,
-- Framework-free vs. [TODO: are there any toolkits that don't require you to use a toolkit, but use one internally?]
+- Framework-independent vs. Radix UI, shadcn, Headless UI, React Aria...
+- Framework-free vs.
 - Headless vs. Web Awesome,
 - Freely styleable via plain CSS (as opposed to configuration-driven styling) vs. Web Awesome,
 - With optional pre-made styles, vs.

@@ -20,7 +20,9 @@ views:
       - FOSS
       - License
       - Notes
-    sort: []
+    sort:
+      - property: Framework-free
+        direction: ASC
     columnSize:
       note.Component count (approx.): 68
       note.Framework independent: 143

@@ -34,19 +34,28 @@
               "icon": "lucide-file",
               "title": "NLnet NGI Zero Commons Fund application"
             }
-          },
-          {
-            "id": "3d96becab3a0b884",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "19f6363d993d7ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e485bd3576afa0a1",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Comparisons.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Comparisons"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:tabs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,13 +216,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d96becab3a0b884",
+  "active": "0036c27e57c107e5",
   "lastOpenFiles": [
+    "Comparisons.base",
+    "NLnet NGI Zero Commons Fund application.md",
+    "Comparisons/PrimeNG.md",
+    "Sustainability.md",
     "Components.base",
     "Points to compare to other frameworks.md",
-    "Comparisons.base",
     "Templates/Comparison.md",
-    "Comparisons/PrimeNG.md",
     "Comparisons/PrimeReact.md",
     "Comparisons/Quasar.md",
     "Comparisons/Vuetify.md",
@@ -228,8 +240,6 @@
     "Comparisons/Material UI.md",
     "Comparisons/Spectrum Web Components.md",
     "Templates/Component.md",
-    "Sustainability.md",
-    "NLnet NGI Zero Commons Fund application.md",
     "Timeframe and budget.md",
     "Comparisons/Wired Elements.md",
     "Comparisons/Web Awesome.md",
