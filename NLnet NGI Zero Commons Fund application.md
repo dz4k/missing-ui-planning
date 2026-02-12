@@ -53,14 +53,13 @@ Missing UI will distinguish itself by combining all of the below features:
 It is my feeling that most existing UI frameworks presume _developers_ as the target audience, and optimize for solving the web author's problems -- only focusing on the end user insofar as the developer does. This is not the approach we will take. In accordance with the W3C Priority of Constituencies, we plan to optimize for the _web user_, looking to improve the usability and accessibility of web applications as a whole. To the extent that we cater to developers, it will be to drive adoption (expanding impact area), and relieve "footguns" that lead to both broken websites and developer misery.
 
 **What are significant technical challenges you expect to solve during the project, if any?**
-We will need to achieve multiple contradictory goals.
-
-- Performing extensive usability and accessibility testing and working around browser and AT bugs
-- Achieving and testing for "DOM resilience", e.g. other libraries manipulating DOM, or elements being serialized to HTML and revived.
-	- Achieving DOM resilience will require heavy use of the IntersectionObserver API. This is known to have performance drawbacks [TODO link to caleb porzio blog post]. Testing and optimization will be needed to make sure using Missing UI components doesn't degrade the performance of a website.
-- Using newly available web APIs where best practices have not yet arisen
-- Developing polyfills when needed
-- TODO: there's got to be more
+- Performing extensive usability and accessibility testing and working around browser and AT bugs. Testing and debugging, as opposed to the initial implementations of each component, will contribute most to our goals of accessibility and resilience, and is my main motivation for seeking out funding.
+- Achieving and testing for "DOM resilience", i.e. other libraries manipulating DOM or elements being serialized to HTML and revived should not break Missing UI.
+	- Achieving DOM resilience is likely to require heavy use of the IntersectionObserver API. This is known to have performance drawbacks [TODO link to caleb porzio blog post]. Testing and optimization will be needed to make sure using Missing UI components doesn't degrade the performance of a website.
+- Using newly available web APIs where best practices have not yet arisen. Interpreting complex Web platform specs and drafts to ensure our work is conformant with current and future specs, and follows the "grain" of the platform.
+- Creating abstractions like FocusGroup that can generalize logic across many components, but remain flexible enough for the sorts of edge-case handling good UI usually requires.
+- Developing polyfills when needed.
+- Remaining consistent with native platform behavior when that behavior varies across devices, and browsers don't always expose the necessary APIs.
 
 **Describe the ecosystem of the project, and how you will engage with relevant actors and promote the outcomes?**
 The project currently targets personal sites and small organizations as users. Missing UI is a massive increase in scope, and achieving our vision will require adoption across a broad range of websites. Missing is closely linked with the htmx (https://htmx.org) community, and we plan to promote Missing UI as a companion library for client-side interactions not easily implementable with htmx.
