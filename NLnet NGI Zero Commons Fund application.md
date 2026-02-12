@@ -25,20 +25,23 @@ Currently, Missing.css is a CSS library with a few JS widgets. The proposed proj
 
 I was commissioned to build Missing 1.0 by Big Sky Software (MT, US) and Commspace (RSA). I have been maintaining it ever since. I was eventually joined by Geoffrey Eisenbarth, who used the library at his workplace and made huge contributions. I created the vision for Missing 2.0 / Missing UI and was in talks with a potential sponsor, but did not continue as they requested changes that would couple the component library to their in-house framework. Instead, I shared it with Geoff -- we have been working on it ever since.
 
-**Explain what the requested budget will be used for? Does the project have other funding sources, both past and present?  
-A breakdown in the main tasks with associated effort is appreciated. Make rates explicit.**
+**Explain what the requested budget will be used for? Does the project have other funding sources, both past and present? A breakdown in the main tasks with associated effort is appreciated. Make rates explicit.**
 The first version of Missing.css was commissioned by Big Sky Software (MT, US) and Commspace (RSA), who paid a total of 4000 USD. All development after the 1.0 release has been unfunded, however, my co-maintainer Geoff works on the project during his work hours.
+
+After starting work on Missing 2.0/Missing UI, we found that the degree of diligent usability and accessibility testing required for the massive increase in scope of our project does not easily fit into after-hours or downtime at another job. Thus, if the funds are granted, I will start working on Missing.css full-time.
+
+We would also like to acquire a Mac mini for testing on Safari (and iOS Safari via an emulator). We are evaluating options like BrowserStack, however.
 
 Costs:
 - Labor (estimated, see breakdown in full budget):
-	- Days: 103
-	- Day rate: 75 EUR
-	- Total: 7725 EUR
-	
+	- Days: 112
+	- Day rate: 80 EUR
+	- Total: 8960 EUR
 - Apple Mac Mini (for testing on Safari): 550 EUR
-- Polypane subscription: 
+- Polypane subscription: 72 EUR (12 * 6 months)
+Total: 9582 EUR
 
-The time estimates budgeted for are optimistic, so the project may extend beyond 5 business months, but is unlikely to stretch beyond a year. 
+Our time estimates are optimistic, so the project may extend beyond 5 business months, but is unlikely to stretch beyond a year. 
 
 **Compare your own project with existing or historical efforts.**
 [TODO HELP FIXME NEEDS WORK THIS IS SO IMPORTANT]
