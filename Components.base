@@ -4,10 +4,6 @@ filters:
 views:
   - type: table
     name: Overview
-    filters:
-      and:
-        - Confirmed == true
-        - core == false
     order:
       - Confirmed
       - Implemented
