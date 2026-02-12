@@ -69,8 +69,7 @@
               "title": "Lion"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd6f10ad8067f68e",
+  "active": "2f4c5284504d74a6",
   "lastOpenFiles": [
     "Comparisons.base",
     "NLnet NGI Zero Commons Fund application.md",

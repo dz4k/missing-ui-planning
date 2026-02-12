@@ -45,22 +45,21 @@ Missing UI will distinguish itself by combining all of the below features:
 - Headless vs. Web Awesome, Crayons, Vaadin, Spectrum WC...
 - Freely styleable via plain CSS (as opposed to configuration-driven styling) vs. Fluent UI, Chakra UI
 - With optional pre-made styles, vs. u-elements, 
-- With classless styling, vs. 
-- Not requiring user tooling (including npm) vs.
-- Comprehensive vs. u-elements
-- Exposing composable building blocks (mixins) vs.
+- With optional classless styling, vs. all libraries examined,
+- Not requiring frontend tooling (including bundlers, npm, and special CLIs) vs. Agnostic UI
+- Exposing its own composable building blocks, like the FocusGroup mixin
 - Meant for real-world usage vs. WAI-ARIA APG example implementations
 
-It is my feeling that most existing UI frameworks presume _developers_ as the target audience, and optimize for solving the web author's problems -- only focusing on the end user insofar as the developer does. This is not the approach we will take. In accordance with the W3C Priority of Constituencies, we plan to optimize for the _web user_, looking to improve the usability and accessibility of web applications as a whole. To the extent that we cater to developers, it will be to drive adoption (expanding impact), and relieve "footguns" that lead to both broken websites and developer misery.
+It is my feeling that most existing UI frameworks presume _developers_ as the target audience, and optimize for solving the web author's problems -- only focusing on the end user insofar as the developer does. This is not the approach we will take. In accordance with the W3C Priority of Constituencies, we plan to optimize for the _web user_, looking to improve the usability and accessibility of web applications as a whole. To the extent that we cater to developers, it will be to drive adoption (expanding impact area), and relieve "footguns" that lead to both broken websites and developer misery.
 
 **What are significant technical challenges you expect to solve during the project, if any?**
 We will need to achieve multiple contradictory goals.
 
-- 
-- Designing for graceful degradation
+- Performing extensive usability and accessibility testing and working around browser and AT bugs
 - Achieving and testing for "DOM resilience", e.g. other libraries manipulating DOM, or elements being serialized to HTML and revived.
 	- Achieving DOM resilience will require heavy use of the IntersectionObserver API. This is known to have performance drawbacks [TODO link to caleb porzio blog post]. Testing and optimization will be needed to make sure using Missing UI components doesn't degrade the performance of a website.
-- Using cutting edge web APIs, developing polyfills when needed, potentially working with browser vendors to iron out bugs
+- Using newly available web APIs where best practices have not yet arisen
+- Developing polyfills when needed
 - TODO: there's got to be more
 
 **Describe the ecosystem of the project, and how you will engage with relevant actors and promote the outcomes?**

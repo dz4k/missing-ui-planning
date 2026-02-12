@@ -6,7 +6,7 @@ views:
     name: Table
     filters:
       and:
-        - note["Has styles"] == false
+        - Buildless == false
     order:
       - file.name
       - Accessibility
@@ -24,11 +24,11 @@ views:
       - License
       - Notes
     sort:
-      - property: Headless
-        direction: DESC
       - property: Framework independent
         direction: DESC
       - property: Framework-free
+        direction: DESC
+      - property: Headless
         direction: DESC
       - property: Has styles
         direction: DESC
