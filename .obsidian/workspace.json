@@ -122,8 +122,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,14 +231,18 @@
   },
   "active": "2f4c5284504d74a6",
   "lastOpenFiles": [
+    "Grant application talking points.md",
+    "Missing UI, Project Proposal.md",
+    "Points to compare to other frameworks.md",
+    "Timeframe and budget.md",
+    "Sustainability.md",
+    "2026-01-05.md",
     "Comparisons.base",
     "NLnet NGI Zero Commons Fund application.md",
     "Comparisons/Lion.md",
     "Comparisons/FAST.md",
     "Comparisons/PrimeNG.md",
-    "Sustainability.md",
     "Components.base",
-    "Points to compare to other frameworks.md",
     "Templates/Comparison.md",
     "Comparisons/PrimeReact.md",
     "Comparisons/Quasar.md",
@@ -256,9 +259,6 @@
     "Comparisons/Material UI.md",
     "Comparisons/Spectrum Web Components.md",
     "Templates/Component.md",
-    "Timeframe and budget.md",
-    "Comparisons/Wired Elements.md",
-    "Comparisons/Web Awesome.md",
     "Untitled 1.base",
     "Templates",
     "Comparisons/Untitled",
