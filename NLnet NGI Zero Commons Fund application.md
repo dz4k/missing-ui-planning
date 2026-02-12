@@ -19,7 +19,11 @@ Website
 https://missing.style
 
 **Abstract**
-Currently, Missing.css is a CSS library with a few JS widgets. The proposed project is to create a comprehensive UI component library with implementations for any common UI pattern not included in HTML. Our goal is widgets that are - framework independent, - tooling independent (e.g. not requiring npm or a bundler), - simple and well-documented code, - "headless" and freely styleable, - with optional pre-made styling, - exemplary in usability and accessibility, - comprehensively tested. We will also publish a utility library that we use in the implementation of these components. Our mission is to allow rapid development of web interfaces, and improve the usability and accessibility of the silent majority of websites that do not use SPA frameworks. Our stretch goal is to drive web UI standards forward by working with efforts like Open UI (https://open-ui.org).
+Currently, Missing.css is a CSS library with a few JS widgets. The proposed project is to create a comprehensive UI component library with implementations for any common UI pattern not included in HTML. Our goal is widgets that are - framework independent, - tooling independent (e.g. not requiring npm or a bundler), - simple and well-documented code, - "headless" and freely styleable, - with optional pre-made styling, - exemplary in usability and accessibility, - comprehensively tested. We will also publish a utility library that we use in the implementation of these components.
+
+Our mission is to allow rapid development of web interfaces, and improve the usability and accessibility of the silent majority of websites that do not use SPA frameworks. Our stretch goal is to drive web UI standards forward by working with efforts like Open UI (https://open-ui.org).
+
+This proposal covers 22 components, including 
 
 **Have you been involved with projects or organisations relevant to this project before? And if so, can you tell us a bit about your contributions?**
 
