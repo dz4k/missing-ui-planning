@@ -1,3 +1,5 @@
+Use template [[Comparison]].
+
 ## Framework-free
 Does not require a framework like React, Vue, Alpine etc. Record the dependencies of the library, incl. frameworks and things like Tailwind
 

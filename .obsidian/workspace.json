@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLnet NGI Zero Commons Fund application.md",
+                "file": "Comparisons/PrimeNG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLnet NGI Zero Commons Fund application"
+              "title": "PrimeNG"
             }
           },
           {
@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "NLnet NGI Zero Commons Fund application"
             }
+          },
+          {
+            "id": "3d96becab3a0b884",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,35 +206,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1adcfae6052f634",
+  "active": "3d96becab3a0b884",
   "lastOpenFiles": [
     "Components.base",
+    "Points to compare to other frameworks.md",
     "Comparisons.base",
+    "Templates/Comparison.md",
+    "Comparisons/PrimeNG.md",
+    "Comparisons/PrimeReact.md",
+    "Comparisons/Quasar.md",
+    "Comparisons/Vuetify.md",
+    "Comparisons/Vaadin.md",
+    "Comparisons/u-elements.md",
+    "Comparisons/shadcn-ui.md",
+    "Comparisons/Skeleton.md",
+    "Comparisons/React Aria Components.md",
+    "Comparisons/NextUI.md",
+    "Comparisons/Ionic Core.md",
+    "Comparisons/Material Web Components.md",
+    "Comparisons/Mantine.md",
+    "Comparisons/Material UI.md",
+    "Comparisons/Spectrum Web Components.md",
+    "Templates/Component.md",
     "Sustainability.md",
+    "NLnet NGI Zero Commons Fund application.md",
     "Timeframe and budget.md",
     "Comparisons/Wired Elements.md",
     "Comparisons/Web Awesome.md",
-    "Templates/Component.md",
     "Comparisons/Franken UI.md",
-    "Templates/Comparison.md",
-    "Comparisons/Vuetify.md",
     "2026-01-05.md",
-    "Comparisons/Vaadin.md",
-    "Comparisons/UI5 Web Components.md",
-    "Comparisons/u-elements.md",
-    "Comparisons/Spectrum Web Components.md",
-    "Comparisons/Skeleton.md",
-    "Comparisons/shadcn-ui.md",
-    "Comparisons/React Aria Components.md",
-    "Comparisons/Radix UI (Primitives).md",
-    "Comparisons/Quasar.md",
-    "Comparisons/PrimeReact.md",
-    "Comparisons/PrimeNG.md",
-    "Comparisons/PatternFly.md",
-    "Comparisons/NextUI.md",
-    "Comparisons/Naive UI.md",
-    "Comparisons/Melt UI.md",
-    "Comparisons/Material Web Components.md",
     "Untitled 1.base",
     "Templates",
     "Comparisons/Untitled",
