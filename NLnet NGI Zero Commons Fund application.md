@@ -34,9 +34,9 @@ Costs:
 	- Days: 103
 	- Day rate: 75 EUR
 	- Total: 7725 EUR
-	  
-- Apple Mac Mini (for testing on Safari): ~550 EUR
-- Polypane subscription:
+	
+- Apple Mac Mini (for testing on Safari): 550 EUR
+- Polypane subscription: 
 
 The time estimates budgeted for are optimistic, so the project may extend beyond 5 business months, but is unlikely to stretch beyond a year. 
 
