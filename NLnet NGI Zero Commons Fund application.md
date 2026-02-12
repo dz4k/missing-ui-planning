@@ -62,7 +62,7 @@ It is my feeling that most existing UI frameworks presume _developers_ as the ta
 - Using newly available web APIs where best practices have not yet arisen. Interpreting complex Web platform specs and drafts to ensure our work is conformant with current and future specs, and follows the "grain" of the platform.
 - Creating abstractions like FocusGroup that can generalize logic across many components, but remain flexible enough for the sorts of edge-case handling good UI usually requires.
 - Developing polyfills when needed.
-- Remaining consistent with native platform behavior when that behavior varies across devices, and browsers don't always expose the necessary APIs.
+- Remaining maximally consistent with native platform behavior when that behavior varies across devices, and browsers don't always expose the necessary APIs.
 
 **Describe the ecosystem of the project, and how you will engage with relevant actors and promote the outcomes?**
 The project currently targets personal sites and small organizations as users. Missing UI is a massive increase in scope, and achieving our vision will require adoption across a broad range of websites. Missing is closely linked with the htmx (https://htmx.org) community, and we plan to promote Missing UI as a companion library for client-side interactions not easily implementable with htmx.
