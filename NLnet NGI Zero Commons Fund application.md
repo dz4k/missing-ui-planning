@@ -88,4 +88,6 @@ Missing is closely linked with the htmx (https://htmx.org) community and is host
 [TODO: ask hypersys team about this!!!] I am also a co-author of Hypermedia Systems, a book which uses Missing 1.0 as a simple stylesheet in an example software project (Contact.app). A future edition of Hypermedia Systems may include a chapter on using the newly implemented components.
 
 **Attachments**
-We had that old "Missing UI Project Proposal" document -- maybe we should update that with the current component list and attach it.
+- Timeframe and budget
+- Other frameworks data
+- We had that old "Missing UI Project Proposal" document -- maybe we should update that with the current component list and attach it.
