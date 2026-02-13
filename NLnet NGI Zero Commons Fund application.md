@@ -21,7 +21,7 @@ https://missing.style
 **Abstract**
 Currently, Missing.css is a CSS library with a few JS widgets. The proposed project is to expand it into a comprehensive UI component library with implementations for common UI patterns not included in HTML. Our goal is widgets that are - framework independent, - tooling independent (e.g. not requiring npm or a bundler), - simple and well-documented code, - "headless" and freely styleable, - with optional pre-made styling, - exemplary in usability and accessibility, - comprehensively tested. We will also publish a utility library that we use in the implementation of these components.
 
-Our mission is to allow rapid development of web interfaces, and improve the usability and accessibility of the silent majority of websites that do not use SPA frameworks. Our stretch goal is to drive web UI standards forward by working with efforts like Open UI (https://open-ui.org).
+Our mission is to allow rapid development of web interfaces, and improve the usability and accessibility of the silent majority of websites that do not use SPA frameworks. Our stretch goal is to drive web UI standards forward by working with projects like Open UI (https://open-ui.org), whose research often guides our implementation approach.
 
 This proposal covers 22 components, 10 "core" components that will be included in the first release and the rest to be published in subsequent releases.
 
@@ -84,7 +84,9 @@ It is my feeling that most existing UI frameworks presume _developers_ as the ta
 **Describe the ecosystem of the project, and how you will engage with relevant actors and promote the outcomes?**
 The project currently targets personal sites and small organizations as users. Missing UI is a massive increase in scope, and achieving our vision will require adoption across a broad range of websites.
 
-Missing is closely linked with the htmx (https://htmx.org) community and is hosted under the same Big Sky Software GitHub organization. We plan to promote Missing UI as a companion library for client-side interactions not easily implementable with htmx. We will consider setting up separate sponsorship infrastructure for Missing, as we do not benefit from Big Sky sponsors except for website hosting and domain registration.
+Missing is closely linked with the htmx (https://htmx.org) community and is hosted under the same Big Sky Software GitHub organization. We plan to promote Missing UI as a companion library for client-side interactions not easily implementable with htmx. This wo
+
+We will consider setting up separate sponsorship infrastructure for Missing, as we do not benefit from Big Sky sponsors except for website hosting and domain registration.
 
 [TODO: ask hypersys team about this!!!] I am also a co-author of Hypermedia Systems, a book which uses Missing 1.0 as a simple stylesheet in an example software project (Contact.app). A future edition of Hypermedia Systems may include a chapter on using the newly implemented components.
 
