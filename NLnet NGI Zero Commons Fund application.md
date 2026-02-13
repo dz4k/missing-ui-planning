@@ -70,6 +70,7 @@ It is my feeling that most existing UI frameworks presume _developers_ as the ta
 
 **What are significant technical challenges you expect to solve during the project, if any?**
 - Performing extensive usability and accessibility testing and working around browser and AT bugs. Testing, debugging and "UI sanding"[^1], as opposed to the initial implementations of each component, will contribute most to our goals of accessibility and resilience, and is my main motivation for seeking out funding.
+- Developing automated tests, particularly for accessibility, to prevent regressions.
 - Achieving and testing for "DOM resilience", i.e. other libraries manipulating DOM or elements being serialized to HTML and revived should not break Missing UI.
 	- Achieving DOM resilience is likely to require heavy use of the IntersectionObserver API. This is known to have performance drawbacks [TODO link to caleb porzio blog post]. Testing and optimization will be needed to make sure using Missing UI components doesn't degrade the performance of a website.
 - Using newly available web APIs where best practices have not yet arisen. Interpreting complex Web platform specs and drafts to ensure our work is conformant with current and future specs, and follows the "grain" of the platform.
