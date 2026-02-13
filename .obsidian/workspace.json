@@ -39,13 +39,14 @@
             "id": "ed4ab946c1ff816b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Components.base",
-                "viewName": "Overview"
+                "file": "NLnet NGI Zero Commons Fund application.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Components"
+              "icon": "lucide-file",
+              "title": "NLnet NGI Zero Commons Fund application"
             }
           }
         ],
@@ -211,8 +212,10 @@
   },
   "active": "ed4ab946c1ff816b",
   "lastOpenFiles": [
-    "Comparisons.base",
+    "Missing UI, Project Proposal.md",
+    "Grant application talking points.md",
     "Components.base",
+    "Comparisons.base",
     "Components/Date range picker (tentative).md",
     "Components/Date picker (tentative).md",
     "NLnet NGI Zero Commons Fund application.md",
@@ -220,8 +223,6 @@
     "Points to compare to other frameworks.md",
     "Sustainability.md",
     "Timeframe and budget.md",
-    "Grant application talking points.md",
-    "Missing UI, Project Proposal.md",
     "Templates/Component.md",
     "Comparisons/PrimeNG.md",
     "Comparisons/Lion.md",
