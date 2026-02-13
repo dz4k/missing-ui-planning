@@ -64,7 +64,7 @@ We have attached a detailed feature matrix comparing various existing component 
 - A company's branded design system that just happens to be open-sourced,
 - Prevent direct styling (e.g. by using Shadow DOM heavily), and expose limited customization hooks
 
-u-elements is the closest project to our vision. However, [TODO]
+u-elements is the closest project to our vision. However, the project documentation still mostly assumes the presence of an npm-based frontend toolchain. Developers using backend-heavy, template-based frameworks like Django are guided towards a public CDN, which has bad implications for performance, reliability and privacy, or set up an "asset pipeline", adding significant complexity to projects that otherwise wouldn't need it. Though it may be possible to vendor the project's code, this approach is not documented. Missing will prioritize "traditional"/"MPA" websites, which still make up the majority of the Web.
 
 It is my feeling that most existing UI frameworks presume _developers_ as the target audience, and optimize for solving the web author's problems -- only focusing on the end user insofar as the developer does. This is not the approach we will take. In accordance with the W3C Priority of Constituencies, we plan to optimize for the _web user_, looking to improve the usability and accessibility of web applications as a whole. To the extent that we cater to developers, it will be to drive adoption (expanding impact area), and relieve "footguns" that lead to both broken websites and developer misery.
 
