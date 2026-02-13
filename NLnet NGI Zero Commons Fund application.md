@@ -14,9 +14,9 @@ Turkey
 
 **General project information**
 Proposal name
-Missing UI
+: Missing UI
 Website
-https://missing.style
+: https://missing.style
 
 **Abstract**
 Currently, Missing.css is a CSS library with a few JS widgets. The proposed project is to expand it into a comprehensive UI component library with implementations for common UI patterns not included in HTML. Our goal is widgets that are - framework independent, - tooling independent (e.g. not requiring npm or a bundler), - simple and well-documented code, - "headless" and freely styleable, - with optional pre-made styling, - exemplary in usability and accessibility, - comprehensively tested. We will also publish a utility library that we use in the implementation of these components.
