@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparisons/PrimeNG.md",
+                "file": "NLnet NGI Zero Commons Fund application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PrimeNG"
+              "title": "NLnet NGI Zero Commons Fund application"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "NLnet NGI Zero Commons - expected follow-up questions"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,23 +209,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed4ab946c1ff816b",
+  "active": "e1adcfae6052f634",
   "lastOpenFiles": [
-    "NLnet NGI Zero Commons Fund application.md",
     "NLnet NGI Zero Commons - expected follow-up questions.md",
     "Grant application talking points.md",
-    "Comparisons.base",
     "Components.base",
+    "Comparisons/PrimeNG.md",
+    "Timeframe and budget.md",
+    "NLnet NGI Zero Commons Fund application.md",
+    "Comparisons.base",
     "Comparisons/Element Plus.md",
     "Components/Date range picker (tentative).md",
     "Components/Date picker (tentative).md",
     "2026-01-05.md",
     "Points to compare to other frameworks.md",
     "Sustainability.md",
-    "Timeframe and budget.md",
     "Missing UI, Project Proposal.md",
     "Templates/Component.md",
-    "Comparisons/PrimeNG.md",
     "Comparisons/Lion.md",
     "Comparisons/FAST.md",
     "Templates/Comparison.md",
@@ -239,7 +238,6 @@
     "Comparisons/Skeleton.md",
     "Comparisons/React Aria Components.md",
     "Comparisons/NextUI.md",
-    "Comparisons/Ionic Core.md",
     "Untitled 1.base",
     "Templates",
     "Comparisons/Untitled",

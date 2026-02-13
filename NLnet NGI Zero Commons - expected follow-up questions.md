@@ -1,2 +1,2 @@
 **What is your plan for the project if you don't receive subsequent funding?**
-After the development of the initial set of components, 
+After the development of the initial set of components, continued maintenance will require less commitment. Growing our project community by releasing and promoting 2.0, we expect to see components contributed by new adopters. We will also explore sponsorship schemes and commercial services throughout the project period.
