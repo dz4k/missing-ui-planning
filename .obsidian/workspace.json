@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparisons/Spectrum Web Components.md",
+                "file": "Comparisons/PrimeNG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spectrum Web Components"
+              "title": "PrimeNG"
             }
           },
           {
@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLnet NGI Zero Commons - expected follow-up questions.md",
+                "file": "Components/Tree Item.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLnet NGI Zero Commons - expected follow-up questions"
+              "title": "Tree Item"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,13 +190,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "aa16297c7e8200d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,24 +220,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1adcfae6052f634",
+  "active": "ed4ab946c1ff816b",
   "lastOpenFiles": [
-    "Components/Window Splitter.md",
-    "NLnet NGI Zero Commons Fund application.md",
-    "NLnet NGI Zero Commons - expected follow-up questions.md",
-    "Grant application talking points.md",
-    "Components.base",
-    "Comparisons/PrimeNG.md",
-    "Timeframe and budget.md",
-    "Comparisons.base",
-    "Comparisons/Element Plus.md",
+    "Components/Tree.md",
     "Components/Date range picker (tentative).md",
     "Components/Date picker (tentative).md",
-    "2026-01-05.md",
+    "Components/Data Grid.md",
+    "Components/Data table.md",
     "Points to compare to other frameworks.md",
-    "Sustainability.md",
+    "NLnet NGI Zero Commons - expected follow-up questions.md",
+    "NLnet NGI Zero Commons Fund application.md",
     "Missing UI, Project Proposal.md",
+    "Grant application talking points.md",
+    "Components.base",
+    "Comparisons.base",
+    "2026-01-05.md",
+    "Sustainability.md",
+    "Timeframe and budget.md",
     "Templates/Component.md",
+    "Comparisons/PrimeNG.md",
     "Comparisons/Lion.md",
     "Comparisons/FAST.md",
     "Templates/Comparison.md",
@@ -238,7 +250,6 @@
     "Comparisons/shadcn-ui.md",
     "Comparisons/Skeleton.md",
     "Comparisons/React Aria Components.md",
-    "Comparisons/NextUI.md",
     "Untitled 1.base",
     "Templates",
     "Comparisons/Untitled",
