@@ -20,7 +20,7 @@ views:
       Time estimate (days): Sum
     columnSize:
       note.Confirmed: 77
-      note.Implemented: 171
+      note.Implemented: 96
       file.name: 178
       note.Time estimate (days): 70
   - type: table

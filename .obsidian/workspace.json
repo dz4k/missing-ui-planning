@@ -39,18 +39,16 @@
             "id": "ed4ab946c1ff816b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Components/Date picker (tentative).md",
-                "mode": "source",
-                "source": false
+                "file": "Components.base",
+                "viewName": "Overview"
               },
-              "icon": "lucide-file",
-              "title": "Date picker (tentative)"
+              "icon": "lucide-table",
+              "title": "Components"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,25 +218,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed4ab946c1ff816b",
+  "active": "e1adcfae6052f634",
   "lastOpenFiles": [
+    "Timeframe and budget.md",
+    "Components.base",
+    "NLnet NGI Zero Commons Fund application.md",
+    "NLnet NGI Zero Commons - expected follow-up questions.md",
+    "Components/Date picker (tentative).md",
     "Components/Menu item with checkbox.md",
     "Components/Tree Item.md",
     "Components/Tree.md",
     "Components/Date range picker (tentative).md",
-    "Components/Date picker (tentative).md",
     "Components/Data Grid.md",
     "Components/Data table.md",
     "Points to compare to other frameworks.md",
-    "NLnet NGI Zero Commons - expected follow-up questions.md",
-    "NLnet NGI Zero Commons Fund application.md",
     "Missing UI, Project Proposal.md",
     "Grant application talking points.md",
-    "Components.base",
     "Comparisons.base",
     "2026-01-05.md",
     "Sustainability.md",
-    "Timeframe and budget.md",
     "Templates/Component.md",
     "Comparisons/PrimeNG.md",
     "Comparisons/Lion.md",
@@ -249,7 +247,6 @@
     "Comparisons/Vuetify.md",
     "Comparisons/Vaadin.md",
     "Comparisons/u-elements.md",
-    "Comparisons/shadcn-ui.md",
     "Untitled 1.base",
     "Templates",
     "Comparisons/Untitled",
