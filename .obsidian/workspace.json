@@ -223,6 +223,7 @@
   "active": "ed4ab946c1ff816b",
   "lastOpenFiles": [
     "Components/Tree.md",
+    "Components/Tree Item.md",
     "Components/Date range picker (tentative).md",
     "Components/Date picker (tentative).md",
     "Components/Data Grid.md",
@@ -249,7 +250,6 @@
     "Comparisons/u-elements.md",
     "Comparisons/shadcn-ui.md",
     "Comparisons/Skeleton.md",
-    "Comparisons/React Aria Components.md",
     "Untitled 1.base",
     "Templates",
     "Comparisons/Untitled",
