@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLnet NGI Zero Commons Fund application.md",
+                "file": "Comparisons/Spectrum Web Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLnet NGI Zero Commons Fund application"
+              "title": "Spectrum Web Components"
             }
           },
           {
@@ -211,12 +211,13 @@
   },
   "active": "e1adcfae6052f634",
   "lastOpenFiles": [
+    "Components/Window Splitter.md",
+    "NLnet NGI Zero Commons Fund application.md",
     "NLnet NGI Zero Commons - expected follow-up questions.md",
     "Grant application talking points.md",
     "Components.base",
     "Comparisons/PrimeNG.md",
     "Timeframe and budget.md",
-    "NLnet NGI Zero Commons Fund application.md",
     "Comparisons.base",
     "Comparisons/Element Plus.md",
     "Components/Date range picker (tentative).md",
