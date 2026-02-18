@@ -48,7 +48,8 @@
               "title": "Components"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,9 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1adcfae6052f634",
+  "active": "ed4ab946c1ff816b",
   "lastOpenFiles": [
     "Timeframe and budget.md",
+    "Comparisons/PrimeNG.md",
     "Components.base",
     "NLnet NGI Zero Commons Fund application.md",
     "NLnet NGI Zero Commons - expected follow-up questions.md",
@@ -238,7 +240,6 @@
     "2026-01-05.md",
     "Sustainability.md",
     "Templates/Component.md",
-    "Comparisons/PrimeNG.md",
     "Comparisons/Lion.md",
     "Comparisons/FAST.md",
     "Templates/Comparison.md",

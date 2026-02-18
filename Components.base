@@ -6,7 +6,7 @@ views:
     name: Overview
     filters:
       and:
-        - Confirmed == true
+        - Confirmed == false
     order:
       - Confirmed
       - Implemented
