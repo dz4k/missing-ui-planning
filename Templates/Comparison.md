@@ -12,9 +12,8 @@ Website:
 FOSS:
 License:
 Notes:
+Writing modes supports (RTL, vertical):
 ---
-
-
 
 
 ## Framework-free
@@ -37,3 +36,5 @@ Notes:
 
 ## Buildless
 
+
+## Writing mode support

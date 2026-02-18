@@ -41,3 +41,6 @@ No. It uses Custom Elements.
 
 ## Buildless
 Yes.
+
+## Writing mode support
+Fails.

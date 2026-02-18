@@ -46,3 +46,7 @@ No:
 
 ## Buildless
 
+
+## Writing mode support
+
+Nope, in my testing, switching to RTL breaks arrow navigation in tabs.
