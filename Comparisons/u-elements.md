@@ -11,6 +11,7 @@ Component count (approx.): 15
 Website: https://u-elements.github.io/u-elements/
 FOSS: true
 License: MIT (Permissive)
+Writing modes supports (RTL, vertical): false
 ---
 
 

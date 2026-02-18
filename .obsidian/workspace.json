@@ -11,14 +11,13 @@
             "id": "e1adcfae6052f634",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Comparisons/FAST.md",
-                "mode": "source",
-                "source": false
+                "file": "Comparisons.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "FAST"
+              "icon": "lucide-table",
+              "title": "Comparisons"
             }
           },
           {
@@ -211,6 +210,8 @@
   },
   "active": "e1adcfae6052f634",
   "lastOpenFiles": [
+    "Components.base",
+    "Comparisons/FAST.md",
     "Comparisons.base",
     "Comparisons/u-elements.md",
     "Templates/Comparison.md",
@@ -221,7 +222,6 @@
     "NLnet NGI Zero Commons Fund application.md",
     "NLnet NGI Zero Commons - expected follow-up questions.md",
     "Grant application talking points.md",
-    "Components.base",
     "Comparisons/PrimeNG.md",
     "Timeframe and budget.md",
     "Comparisons/Element Plus.md",
@@ -232,7 +232,6 @@
     "Sustainability.md",
     "Missing UI, Project Proposal.md",
     "Comparisons/Lion.md",
-    "Comparisons/FAST.md",
     "Comparisons/PrimeReact.md",
     "Comparisons/Quasar.md",
     "Comparisons/Vuetify.md",

@@ -15,6 +15,7 @@ views:
       - Has styles
       - Headless
       - Styleable
+      - Writing modes supports (RTL, vertical)
       - Stack
       - Website
       - FOSS
@@ -38,6 +39,7 @@ views:
     columnSize:
       note.Component count (approx.): 68
       note.Framework independent: 143
+      note.Writing modes supports (RTL, vertical): 116
       note.License: 164
   - type: table
     name: Filtered
