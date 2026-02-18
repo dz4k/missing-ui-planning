@@ -2,15 +2,15 @@
 Framework-free: true
 Framework independent: true
 Headless: false
-Has styles: false
-Styleable:
-Classless: false
-Buildless: false
+Has styles: true
+Styleable: Config-styleable
+Classless: true
+Buildless: true
 Stack:
-Component count (approx.):
-Website:
-FOSS:
-License:
+Component count (approx.): 30
+Website: https://oat.ink
+FOSS: true
+License: MIT (Permissive)
 Notes:
 ---
 
