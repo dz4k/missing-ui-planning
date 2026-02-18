@@ -11,13 +11,14 @@
             "id": "e1adcfae6052f634",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Comparisons.base",
-                "viewName": "Table"
+                "file": "Comparisons/FAST.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Comparisons"
+              "icon": "lucide-file",
+              "title": "FAST"
             }
           },
           {
@@ -210,6 +211,7 @@
   },
   "active": "e1adcfae6052f634",
   "lastOpenFiles": [
+    "Comparisons.base",
     "Comparisons/u-elements.md",
     "Templates/Comparison.md",
     "Templates/Component.md",
@@ -222,7 +224,6 @@
     "Components.base",
     "Comparisons/PrimeNG.md",
     "Timeframe and budget.md",
-    "Comparisons.base",
     "Comparisons/Element Plus.md",
     "Components/Date range picker (tentative).md",
     "Components/Date picker (tentative).md",
@@ -237,7 +238,6 @@
     "Comparisons/Vuetify.md",
     "Comparisons/Vaadin.md",
     "Comparisons/shadcn-ui.md",
-    "Comparisons/Skeleton.md",
     "Untitled 1.base",
     "Templates",
     "Comparisons/Untitled",

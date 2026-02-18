@@ -11,6 +11,7 @@ Component count (approx.): 40
 Website: https://www.fast.design/
 FOSS: true
 Notes: Component library is abandonware, superseded by Fluent UI
+Writing modes supports (RTL, vertical): false
 ---
 
 ## Framework-free
@@ -38,3 +39,6 @@ No.
 ## Buildless
 Yes.
 > "For a buildless approach, you can directly import Fluent UI Web Components into your HTML files via a Content Delivery Network (CDN)." (https://www.fast.design/docs/getting-started/html-and-javascript/)
+
+## Writing mode support
+Fails the RTL tabs test

@@ -4,9 +4,6 @@ filters:
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - Buildless == false
     order:
       - file.name
       - Accessibility
