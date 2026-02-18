@@ -13,6 +13,7 @@ Accessibility: true
 FOSS: true
 License: MIT (Permissive)
 Notes: fka Shoelace
+Writing modes supports (RTL, vertical): false
 ---
 
 ## Framework-free
@@ -38,4 +39,6 @@ No.
 
 ## Buildless
 Yes.
-> "For basic use, Web Awesome can be quickly added to a page using <link> and <script> tags from a CDN... no build step is required." (https://webawesome.com/)
+> "For basic use, Web Awesome can be quickly added to a page using `<link>` and `<script>` tags from a CDN... no build step is required." (https://webawesome.com/)
+## Writing mode support
+Fails the RTL tabs test.

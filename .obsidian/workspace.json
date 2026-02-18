@@ -11,13 +11,14 @@
             "id": "e1adcfae6052f634",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Comparisons.base",
-                "viewName": "Table"
+                "file": "Comparisons/Web Awesome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Comparisons"
+              "icon": "lucide-file",
+              "title": "Web Awesome"
             }
           },
           {
@@ -210,9 +211,9 @@
   },
   "active": "e1adcfae6052f634",
   "lastOpenFiles": [
+    "Comparisons.base",
     "Components.base",
     "Comparisons/FAST.md",
-    "Comparisons.base",
     "Comparisons/u-elements.md",
     "Templates/Comparison.md",
     "Templates/Component.md",
