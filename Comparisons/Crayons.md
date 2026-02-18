@@ -12,6 +12,7 @@ Website: https://crayons.freshworks.com/
 Notes: '"for Freshworks Developers."'
 FOSS: true
 License: MIT (Permissive)
+Writing modes supports (RTL, vertical): false
 ---
 #we-open-sourced-our-corporate-design-system-for-some-reason
 # Crayons (Freshworks)
@@ -37,3 +38,6 @@ No.
 
 ## Buildless
 Yes.
+
+## Writing mode support
+Fails RTL tabs test.
