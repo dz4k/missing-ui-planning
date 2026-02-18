@@ -25,6 +25,14 @@ Notes:
 
 ## Headless
 
+No:
+> ##### Must include
+>
+> - `00-base.css`
+> - `01-theme.css`
+> - `base.js`
+> - `your files after this`
+
 
 ## Has styles
 
