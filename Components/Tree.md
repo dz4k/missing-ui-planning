@@ -1,7 +1,7 @@
 ---
 Implemented: false
 ARIA: tree
-core: false
+core: true
 Form-associated: false
 type: tag
 Dependencies:
@@ -10,4 +10,4 @@ Dependencies:
 Time estimate (days): 5
 Confirmed: true
 ---
-#tree
+#tree #v2-0 
