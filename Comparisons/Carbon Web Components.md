@@ -12,6 +12,7 @@ Website: https://web-components.carbondesignsystem.com/
 Notes: Implements IBM design system.
 FOSS: true
 License: Apache 2.0 (Permissive)
+Writing modes supports (RTL, vertical): false
 ---
 IBM design system #we-open-sourced-our-corporate-design-system-for-some-reason
 
@@ -40,3 +41,6 @@ No.
 ## Buildless
 Yes.
 > "For basic usage, Carbon Web Components can be incorporated without a complex build process by directly using CDN artifacts in HTML." (https://github.com/carbon-design-system/carbon-for-ibm-dotcom/tree/main/packages/web-components#cdn-usage)
+
+## Writing mode support
+Fails RTL tabs test.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparisons/Web Awesome.md",
+                "file": "Comparisons/Crayons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Awesome"
+              "title": "Crayons"
             }
           },
           {
@@ -212,7 +212,9 @@
   "active": "e1adcfae6052f634",
   "lastOpenFiles": [
     "Comparisons.base",
+    "Comparisons/Carbon Web Components.md",
     "Components.base",
+    "Comparisons/Web Awesome.md",
     "Comparisons/FAST.md",
     "Comparisons/u-elements.md",
     "Templates/Comparison.md",
@@ -236,8 +238,6 @@
     "Comparisons/PrimeReact.md",
     "Comparisons/Quasar.md",
     "Comparisons/Vuetify.md",
-    "Comparisons/Vaadin.md",
-    "Comparisons/shadcn-ui.md",
     "Untitled 1.base",
     "Templates",
     "Comparisons/Untitled",
