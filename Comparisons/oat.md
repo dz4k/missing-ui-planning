@@ -12,6 +12,7 @@ Website: https://oat.ink
 FOSS: true
 License: MIT (Permissive)
 Notes:
+Writing modes supports (RTL, vertical): false
 ---
 
 

@@ -17,6 +17,7 @@
     "Framework independent": "checkbox",
     "Headless": "checkbox",
     "Has styles": "checkbox",
-    "Buildless": "checkbox"
+    "Buildless": "checkbox",
+    "Writing modes supports (RTL, vertical)": "checkbox"
   }
 }
