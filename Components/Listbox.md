@@ -1,7 +1,7 @@
 ---
 ARIA: listbox
 core: true
-Implemented: true
+Implemented: false
 Form-associated: true
 type: tag
 Dependencies:

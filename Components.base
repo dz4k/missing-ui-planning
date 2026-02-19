@@ -1,3 +1,5 @@
+summaries:
+  new summary: ""
 filters:
   and:
     - file.folder == "Components"
@@ -74,3 +76,17 @@ views:
       note.Time estimate (days): 70
   - type: cards
     name: View
+  - type: table
+    name: Timeframe
+    filters:
+      and:
+        - Confirmed == true
+        - Implemented == false
+    order:
+      - file.name
+      - Implemented
+      - core
+      - Time estimate (days)
+      - Dependencies
+    summaries:
+      Time estimate (days): Sum

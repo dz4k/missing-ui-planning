@@ -38,12 +38,12 @@ We would also like to acquire a Mac mini for testing on Safari (and iOS Safari v
 
 Costs:
 - Labor (estimated, see breakdown in full budget):
-	- Days: 112
+	- Days: 114
 	- Day rate: 80 EUR
-	- Total: 8960 EUR
+	- Total: 9120 EUR
 - Apple Mac Mini (for testing on Safari): 550 EUR
 - Polypane subscription: 72 EUR (12 * 6 months)
-Total: 9582 EUR
+Total: 9742 EUR
 
 Our time estimates are optimistic, so the project may extend beyond the planned 6 business months, but is unlikely to stretch close to a year. 
 
