@@ -6,7 +6,6 @@ views:
     name: Table
     order:
       - file.name
-      - Accessibility
       - Buildless
       - Classless
       - Component count (approx.)

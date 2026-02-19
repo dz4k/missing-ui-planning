@@ -1,3 +1,7 @@
+
+## Component count
+Approximate.
+
 ## Framework-free
 Does not require a framework like React, Vue, Alpine etc. We record the dependencies of the library, incl. frameworks and tools like Tailwind.
 
