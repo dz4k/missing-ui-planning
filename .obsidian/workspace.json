@@ -24,14 +24,13 @@
             "id": "83cb19501323f9cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "NLnet NGI Zero Commons Fund application.md",
-                "mode": "source",
-                "source": false
+                "file": "Comparisons.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "NLnet NGI Zero Commons Fund application"
+              "icon": "lucide-table",
+              "title": "Comparisons"
             }
           },
           {
@@ -77,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,18 +236,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83cb19501323f9cf",
+  "active": "2f4c5284504d74a6",
   "lastOpenFiles": [
+    "Comparisons/Carbon Web Components.md",
+    "Comparisons.base",
+    "Components.base",
+    "NLnet NGI Zero Commons Fund application.md",
     "Timeframe and budget.md",
     "Missing UI, Project Proposal.md",
     "Grant application talking points.md",
-    "Comparisons.base",
-    "NLnet NGI Zero Commons Fund application.md",
     "Components/Tree Grid.md",
-    "Components.base",
     "Comparisons/Material Web Components.md",
     "Comparisons/Crayons.md",
-    "Comparisons/Carbon Web Components.md",
     "NLnet NGI Zero Commons - expected follow-up questions.md",
     "Comparisons/Web Awesome.md",
     "Comparisons/FAST.md",

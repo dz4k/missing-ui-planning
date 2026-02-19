@@ -41,7 +41,7 @@ Costs:
 	- Days: 114
 	- Day rate: 80 EUR
 	- Total: 9120 EUR
-- Apple iPhone 12 (refurbished): 550 EUR
+- Apple iPhone 12 (refurbished): ~160 EUR
 - Polypane subscription: 72 EUR (12 * 6 months)
 Total: 9742 EUR
 

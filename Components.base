@@ -3,6 +3,8 @@ summaries:
 filters:
   and:
     - file.folder == "Components"
+formulas:
+  Labor cost (EUR): note["Time estimate (days)"] * 80
 views:
   - type: table
     name: Overview
@@ -15,6 +17,7 @@ views:
       - Time estimate (days)
       - file.tags
       - Dependencies
+      - formula.Labor cost
     summaries:
       Time estimate (days): Sum
     columnSize:
@@ -87,6 +90,8 @@ views:
       - Implemented
       - core
       - Time estimate (days)
+      - formula.Labor cost (EUR)
       - Dependencies
     summaries:
       Time estimate (days): Sum
+      formula.Labor cost (EUR): Sum
