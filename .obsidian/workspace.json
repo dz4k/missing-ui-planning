@@ -51,14 +51,13 @@
             "id": "2f4c5284504d74a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "NLnet NGI Zero Commons Fund application.md",
-                "mode": "source",
-                "source": false
+                "file": "Comparisons.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "NLnet NGI Zero Commons Fund application"
+              "icon": "lucide-table",
+              "title": "Comparisons"
             }
           },
           {
@@ -238,9 +237,9 @@
   },
   "active": "2f4c5284504d74a6",
   "lastOpenFiles": [
+    "NLnet NGI Zero Commons Fund application.md",
     "NLnet NGI Zero Commons - expected follow-up questions.md",
     "Missing UI, Project Proposal.md",
-    "NLnet NGI Zero Commons Fund application.md",
     "Points to compare to other frameworks.md",
     "Sustainability.md",
     "Labor estimates for Missing UI project.md",

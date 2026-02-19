@@ -85,11 +85,11 @@ It is my feeling that most existing UI frameworks presume _developers_ as the ta
 **Describe the ecosystem of the project, and how you will engage with relevant actors and promote the outcomes?**
 The project currently targets personal sites and small organizations as users. Missing UI is a massive increase in scope, and achieving our vision will require adoption across a broad range of websites.
 
-Missing is closely linked with the htmx (https://htmx.org) community and is hosted under the same Big Sky Software GitHub organization. We plan to promote Missing UI as a companion library for client-side interactions not easily implementable with htmx. This would allow us to 
+We already look to the Open UI project for guidance on implementation decisions, and participate in Open UI discussions from time to time. The grant would allow us to participate more actively and potentially contribute to Web standards.
 
-We will consider setting up separate sponsorship infrastructure for Missing, as we do not benefit from Big Sky sponsors except for website hosting and domain registration.
+Missing is closely linked with the htmx (https://htmx.org) community and is hosted under the same Big Sky Software organization. We plan to promote Missing UI as a companion library for client-side interactions not easily implementable with htmx.
 
-[TODO: ask hypersys team about this!!!] I am also a co-author of Hypermedia Systems, a book which uses Missing 1.0 as a simple stylesheet in an example software project (Contact.app). A future edition of Hypermedia Systems may include a chapter on using the newly implemented components.
+We will consider setting up separate sponsorship infrastructure for Missing, as we currently do not benefit from Big Sky sponsors except for website hosting and domain registration.
 
 **Attachments**
 - Timeframe and budget
