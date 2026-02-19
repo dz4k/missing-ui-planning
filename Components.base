@@ -87,7 +87,6 @@ views:
         - Implemented == false
     order:
       - file.name
-      - Implemented
       - core
       - Time estimate (days)
       - formula.Labor cost (EUR)

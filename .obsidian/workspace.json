@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeframe and budget.md",
-                "mode": "source",
+                "file": "Labor estimates for Missing UI project.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeframe and budget"
+              "title": "Labor estimates for Missing UI project"
             }
           },
           {
@@ -238,17 +238,17 @@
   },
   "active": "2f4c5284504d74a6",
   "lastOpenFiles": [
+    "NLnet NGI Zero Commons Fund application.md",
+    "NLnet NGI Zero Commons - expected follow-up questions.md",
+    "Missing UI, Project Proposal.md",
+    "Labor estimates for Missing UI project.md",
     "Comparisons/Carbon Web Components.md",
     "Comparisons.base",
     "Components.base",
-    "NLnet NGI Zero Commons Fund application.md",
-    "Timeframe and budget.md",
-    "Missing UI, Project Proposal.md",
     "Grant application talking points.md",
     "Components/Tree Grid.md",
     "Comparisons/Material Web Components.md",
     "Comparisons/Crayons.md",
-    "NLnet NGI Zero Commons - expected follow-up questions.md",
     "Comparisons/Web Awesome.md",
     "Comparisons/FAST.md",
     "Comparisons/u-elements.md",
