@@ -55,6 +55,7 @@ Missing UI will distinguish itself by combining all of the below features:
 - Freely styleable via plain CSS (as opposed to configuration-driven styling) vs. Fluent UI, Chakra UI
 - With optional pre-made styles, vs. u-elements, 
 - With optional classless styling, vs. all libraries examined,
+- Supporting right-to-left and vertical languages, vs. most libraries examined,
 - Not requiring frontend tooling (including bundlers, npm, and special CLIs) vs. Agnostic UI
 - Exposing its own composable building blocks, like the FocusGroup mixin
 - Meant for real-world usage vs. WAI-ARIA APG example implementations

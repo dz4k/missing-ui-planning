@@ -12,6 +12,7 @@ Website: https://material-web.dev/
 Notes: '"is in maintenance mode pending new maintainers."'
 FOSS: true
 License: Apache 2.0 (Permissive)
+Writing modes supports (RTL, vertical): true
 ---
 
 # Material Web Components
