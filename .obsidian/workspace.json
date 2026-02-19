@@ -51,13 +51,14 @@
             "id": "2f4c5284504d74a6",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Comparisons.base",
-                "viewName": "Table"
+                "file": "Research on existing UI component libraries.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Comparisons"
+              "icon": "lucide-file",
+              "title": "Research on existing UI component libraries"
             }
           },
           {
@@ -237,14 +238,16 @@
   },
   "active": "2f4c5284504d74a6",
   "lastOpenFiles": [
+    "Points to compare to other frameworks.md",
+    "Components/Tablist.md",
+    "Research on existing UI component libraries.md",
+    "Comparisons.base",
     "NLnet NGI Zero Commons Fund application.md",
     "NLnet NGI Zero Commons - expected follow-up questions.md",
     "Missing UI, Project Proposal.md",
-    "Points to compare to other frameworks.md",
     "Sustainability.md",
     "Labor estimates for Missing UI project.md",
     "Comparisons/Carbon Web Components.md",
-    "Comparisons.base",
     "Components.base",
     "Grant application talking points.md",
     "Components/Tree Grid.md",
@@ -263,7 +266,6 @@
     "Components/Date range picker (tentative).md",
     "Components/Date picker (tentative).md",
     "2026-01-05.md",
-    "Comparisons/Lion.md",
     "Untitled 1.base",
     "Templates",
     "Comparisons/Untitled",
