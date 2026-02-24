@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01-05.md",
+                "file": "Comparisons/FAST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-05"
+              "title": "FAST"
             }
           }
         ],
@@ -208,9 +208,10 @@
   },
   "active": "2f4c5284504d74a6",
   "lastOpenFiles": [
-    "Components.base",
-    "2026-02-20.md",
     "Research on existing UI component libraries.md",
+    "2026-01-05.md",
+    "2026-02-20.md",
+    "Components.base",
     "Labor estimates for Missing UI project.md",
     "Components/Tree Item.md",
     "Components/Tree.md",
@@ -232,7 +233,6 @@
     "Missing UI, Project Proposal.md",
     "Grant application talking points.md",
     "Comparisons.base",
-    "2026-01-05.md",
     "Sustainability.md",
     "Templates/Component.md",
     "Untitled 1.base",
