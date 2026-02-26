@@ -30,7 +30,7 @@ This proposal covers 22 components, a few already implemented, with 10 "core" co
 I was commissioned to build Missing 1.0 by Big Sky Software (MT, US) and Commspace (RSA). I have been maintaining it ever since. I was eventually joined by Geoffrey Eisenbarth, who used the library at his workplace and made huge contributions. I created the vision for Missing 2.0 / Missing UI and was in talks with a potential sponsor, but did not continue as they requested changes that would couple the component library to their in-house framework. Instead, I shared it with Geoff -- we have been working on it ever since.
 
 **Explain what the requested budget will be used for? Does the project have other funding sources, both past and present? A breakdown in the main tasks with associated effort is appreciated. Make rates explicit.**
-The first version of Missing.css was commissioned by Big Sky Software (MT, US) and Commspace (RSA), who paid a total of 4000 USD. All development after the 1.0 release has been unfunded, however, my co-maintainer Geoff works on the project during his work hours.
+The first version of Missing.css was commissioned by Big Sky Software (MT, US) and Commspace (RSA), who paid a total of 4000 USD. All development after the 1.0 release has been unfunded. My co-maintainer Geoff works on the project during his work hours.
 
 After starting work on Missing 2.0/Missing UI, we found that the degree of diligent usability and accessibility testing required for the massive increase in scope of our project doesn't easily fit into after-hours or downtime. Thus, if the funds are granted, I will start working on Missing.css full-time.
 
