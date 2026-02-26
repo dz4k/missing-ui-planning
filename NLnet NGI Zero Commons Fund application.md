@@ -32,7 +32,7 @@ I was commissioned to build Missing 1.0 by Big Sky Software (MT, US) and Commspa
 **Explain what the requested budget will be used for? Does the project have other funding sources, both past and present? A breakdown in the main tasks with associated effort is appreciated. Make rates explicit.**
 The first version of Missing.css was commissioned by Big Sky Software (MT, US) and Commspace (RSA), who paid a total of 4000 USD. All development after the 1.0 release has been unfunded, however, my co-maintainer Geoff works on the project during his work hours.
 
-After starting work on Missing 2.0/Missing UI, we found that the degree of diligent usability and accessibility testing required for the massive increase in scope of our project does not easily fit into after-hours or downtime at another job. Thus, if the funds are granted, I will start working on Missing.css full-time.
+After starting work on Missing 2.0/Missing UI, we found that the degree of diligent usability and accessibility testing required for the massive increase in scope of our project doesn't easily fit into after-hours or downtime. Thus, if the funds are granted, I will start working on Missing.css full-time.
 
 We would also like to acquire an iPhone for testing on iOS Safari.
 
