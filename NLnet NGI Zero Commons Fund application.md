@@ -34,7 +34,7 @@ The first version of Missing.css was commissioned by Big Sky Software (MT, US) a
 
 After starting work on Missing 2.0/Missing UI, we found that the degree of diligent usability and accessibility testing required for the massive increase in scope of our project doesn't easily fit into after-hours or downtime. Thus, if the funds are granted, I will start working on Missing.css full-time.
 
-We would also like to acquire an iPhone for testing on iOS Safari.
+We would also like to acquire an iPhone for testing on iOS Safari. We evaluated tools like BrowserStack, but were advised to test on real devices to catch subtle interaction bugs.
 
 Costs:
 - Labor (estimated, see breakdown in full budget):
