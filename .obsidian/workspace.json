@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 345.5
   },
   "right": {
     "id": "0ccecd18852d4678",
@@ -238,10 +238,24 @@
   },
   "active": "e7b23b11a701415c",
   "lastOpenFiles": [
+    "Comparisons/PrimeNG.md",
+    "Missing UI, Project Proposal.md",
     "NLnet NGI Zero Commons - expected follow-up questions.md",
     "Research on existing UI component libraries.md",
+    "2026-02-20.md",
+    "Components.base",
+    "Labor estimates for Missing UI project.md",
+    "Components/Tree Item.md",
+    "Components/Tree.md",
+    "Components/Toolbar.md",
+    "Components/Untitled 1.md",
+    "Components/Untitled.md",
+    "Timeframe and budget.md",
+    "Components/Tree Grid.md",
+    "Comparisons/oat.md",
     "NLnet NGI Zero Commons Fund application.md",
     "Points to compare to other frameworks.md",
+    "Grant application talking points.md",
     "Comparisons.base",
     "Comparisons/oat.md",
     "2026-02-20.md",
